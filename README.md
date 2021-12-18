@@ -24,7 +24,7 @@ __数据分析.ipynb__：
 __test_data__：
 文件夹，存储清洗过的第一次招聘数据的csv文件
 
-__key_id.json__:
+__key_id.json__：
 存储第二次爬取获取的position_id
 
 __data.json__：
