@@ -49,5 +49,5 @@ jieba分词时使用的停用词
 __数据集存储地址__：  链接：https://pan.baidu.com/s/1TzI1be8T6giEdxrA12kNrw  提取码：a7q1（存储 __test_data__ 、__key_id.json__、__data.json__、__work_data.csv__）
 
 ## 数据可视化
-![Boxplot of Month Salary]https://github.com/dengniewei/crawer-and-analysis-for-cecruiting-data/blob/main/Screenshots/Boxplot%20of%20Month%20Salary.png
+![Boxplot of Month Salary](https://github.com/dengniewei/crawer-and-analysis-for-cecruiting-data/blob/main/Screenshots/Boxplot%20of%20Month%20Salary.png)
 
