@@ -47,3 +47,7 @@ __stopwords.txt__：
 jieba分词时使用的停用词
 
 __数据集存储地址__：  链接：https://pan.baidu.com/s/1TzI1be8T6giEdxrA12kNrw  提取码：a7q1（存储 __test_data__ 、__key_id.json__、__data.json__、__work_data.csv__）
+
+## 数据可视化
+![不同城市下的薪资中位数]crawer-and-analysis-for-cecruiting-data/Screenshots/不同城市下的薪资中位数.png
+
