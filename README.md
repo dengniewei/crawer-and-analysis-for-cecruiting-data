@@ -46,5 +46,4 @@ __stealth.min.js__：
 __stopwords.txt__：
 jieba分词时使用的停用词
 
-数据集存储地址：  链接：https://pan.baidu.com/s/1TzI1be8T6giEdxrA12kNrw  
-提取码：a7q1
+__数据集存储地址__：  链接：https://pan.baidu.com/s/1TzI1be8T6giEdxrA12kNrw  提取码：a7q1（存储 __test_data__ 、__key_id.json__、__data.json__、__work_data.csv__）
